@@ -1,5 +1,5 @@
 # python_ptt_sipter
- Python 簡易ptt爬蟲程式
+ Python Web Spider for PTT
 
  BeautifulSoup
  urllib.request & SSL
